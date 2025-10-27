@@ -79,34 +79,14 @@ The global rise in portable ultrasound devices and stricter gender law enforceme
 
 | Member | Role |
 |:--------|:------|
-| [Name 1] | Full Stack Developer |
-| [Name 2] | UI/UX Designer |
-| [Name 3] | AIML Lead |
-| [Name 4] | Research & Content Analyst |
+|| Full Stack Developer |
+|| UI/UX Designer |
+|| AIML Lead |
+|| Research & Content Analyst |
 
 ---
-
-## 🏆 Evaluation Summary (Hackathon)
-
-| Criteria | Score |
-|:---------|:------|
-| Innovation & Creativity | 9.5 / 10 |
-| Technical Feasibility | 9.0 / 10 |
-| Market Potential | 9.5 / 10 |
-| Healthcare Impact | 10 / 10 |
-| Presentation Quality | 9.5 / 10 |
-| Team Collaboration | 9.0 / 10 |
-| **Overall Average** | **9.42 / 10** |
 
 > 🏅 *MorphoGuard demonstrates how AI can be a force for ethical change — merging technology, empathy, and impact.*
-
----
-
-## 🔗 Live Demo & Repository
-
-**GitHub Repository:** [https://github.com/yourusername/MorphoGuard](https://github.com/yourusername/MorphoGuard)  
-**Firebase AI Studio Workspace:** (Add link if shareable)  
-**Demo Video (optional):** Add YouTube or Drive link  
 
 ---
 
@@ -115,15 +95,5 @@ The global rise in portable ultrasound devices and stricter gender law enforceme
 This project is open-sourced under the **MIT License** — free for research and ethical medical use.
 
 ---
-
-## 🙌 Acknowledgements
-
-Special thanks to:
-- **Firebase AI Studio** for empowering AI development  
-- **Google Gemini & Genkit** for intelligent processing  
-- **Hackathon Organizers** for promoting ethical AI innovation  
-
----
-
 ### ✨ _"Technology should protect life, not decide it."_  
 — Team Hacknotics 💙
